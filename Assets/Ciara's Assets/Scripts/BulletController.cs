@@ -30,7 +30,7 @@ public class BulletController : MonoBehaviour
             Destroy(collider.gameObject);
             print("I hit something!");
 
-            SceneManager.LoadScene("Scene0");
+            SceneManager.LoadScene("Level One");
             
         }
 

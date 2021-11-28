@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Ciara's Assets/Scenes/Scene0.unity
+- path: Assets/Ciara's Assets/Scenes/Level One.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
